@@ -5,3 +5,9 @@ npm i mongoose express body-parser bcrypt cors dotenv gridfs-stream multer multe
 npm init -y
 
 mongodb+srv://dark033770:<password>@cluster0.qptbj7j.mongodb.net/?retryWrites=true&w=majority
+
+Frontend - React
+
+npx create-react-app client
+
+npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material
